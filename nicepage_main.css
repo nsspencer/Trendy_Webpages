@@ -36501,7 +36501,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 80px;
+  min-height: 74px;
 }
 
 .u-header .u-text-1 {
@@ -36538,28 +36538,27 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 @media (max-width: 575px) {
-  .u-header .u-sheet-1 {
-    min-height: 85px;
-  }
-
   .u-header .u-text-1 {
+    font-size: 0.875rem;
     width: auto;
-    margin-top: 9px;
+    margin-top: 7px;
   }
 
   .u-header .u-btn-1 {
-    margin-top: -3px;
-    margin-right: -28px;
+    margin-top: -6px;
+    padding: 7px 28px 7px 27px;
   }
 
   .u-header .u-btn-2 {
-    margin-left: -28px;
+    margin-top: -40px;
+    padding: 7px 9px;
   }
 
   .u-header .u-text-2 {
     width: auto;
-    margin-top: -41px;
-    margin-bottom: 20px;
+    font-size: 1.25rem;
+    margin-top: -32px;
+    margin-bottom: 25px;
   }
 }
  .u-footer {
